@@ -1,0 +1,31 @@
+h1{
+    color: #ffaa00;
+    font-weight :500;
+
+}
+
+.sch{
+    color:rgb(235, 26, 26);
+    font-size: 30px;
+}
+
+.pic{
+    height: 300px;
+    border: 10px dotted;
+    padding: 10px;
+    border-color: tomato;
+}
+
+a:link, a:visited {
+    background-color: rgb(60, 244, 54);
+    color: white;
+    padding: 14px 20px 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 100px;
+}
+
+a:hover, a:active {
+    background-color: rgb(38, 0, 255)(38, 0, 255);
+}
